@@ -1,4 +1,20 @@
+body {
+   margin: 0;
+   background-color: #1d1d1e;
+   font-family: "Roboto", sans-serif;
+}
 
+* {
+   outline: none;
+}
+
+//Colors
+$white-30: rgba(255, 255, 255, 0.2);
+
+$white: rgba(255, 255, 255, 1);
+$main-color: #BD4F70;
+
+//Timeline
 .timeline-carousel {
    padding: 86px 6.9444% 90px 6.9444%;
    position: relative;
@@ -64,7 +80,7 @@
          top: 45px;
          left: 0;
          content: "";
-         border-bottom: 1px solid $white-20;
+         border-bottom: 1px solid $white-30;
       }
       .year {
          font-size: 36px;
@@ -197,8 +213,8 @@
          width: 10px;
          height: 10px;
          padding: 0;
-         background-color: $white-60;
-         border-color: $white-60;
+         
+        
          cursor: pointer;
          -webkit-transition: all 0.4s cubic-bezier(0.55, 0.085, 0.68, 0.53);
          -o-transition: all 0.4s cubic-bezier(0.55, 0.085, 0.68, 0.53);
