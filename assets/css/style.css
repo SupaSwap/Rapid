@@ -449,7 +449,7 @@ section {
 --------------------------------*/
 .section-header h3 {
   font-size: 36px;
-  color: #413e66;
+  color: #1bb1dc;
   text-align: center;
   font-weight: 700;
   position: relative;
@@ -1268,7 +1268,7 @@ section {
 }
 
 #faq .faq-list .collapsed {
-  color: black;
+  color: #1bb1dc;
 }
 
 #faq .faq-list .collapsed:hover {
