@@ -621,7 +621,7 @@ section {
 
 @media (max-width: 991px) {
   #why-us .why-us-content {
-    padding-top: 30px;
+    padding-top: 0px;
   }
 }
 
