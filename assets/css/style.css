@@ -479,6 +479,12 @@ section {
 
 /* About Us Section
 --------------------------------*/
+@media (max-width: 991px) {
+  #about {
+    padding: 0px 0;
+  }
+}
+
 #about {
   padding: 40px 0;
 }
