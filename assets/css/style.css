@@ -480,7 +480,7 @@ section {
 /* About Us Section
 --------------------------------*/
 #about {
-  padding: 0px 0;
+  padding: 40px 0;
 }
 
 #about .about-content {
@@ -616,7 +616,7 @@ section {
 /* Why Us Section
 --------------------------------*/
 #why-us {
-  padding: 0px 0;
+  padding: 40px 0;
 }
 
 @media (max-width: 991px) {
