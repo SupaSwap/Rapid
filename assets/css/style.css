@@ -625,6 +625,12 @@ section {
   }
 }
 
+@media (max-width: 991px) {
+  #why-us {
+    padding: 0px 0;
+  }
+}
+
 #why-us .why-us-content .features {
   margin: 0 0 15px 0;
   padding: 0;
