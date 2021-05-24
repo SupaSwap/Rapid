@@ -480,11 +480,11 @@ section {
 /* About Us Section
 --------------------------------*/
 #about {
-  padding: 40px 0;
+  padding: 0px 0;
 }
 
 #about .about-content {
-  padding-top: 40px;
+  padding-top: 0px;
 }
 
 #about .about-content h2 {
