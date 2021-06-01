@@ -5,6 +5,36 @@
 * License: https://bootstrapmade.com/license/
 */
 
+
+  @font-face {
+  font-family: 'Bungee Hairline';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../font/bungee-hairline-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../font/bungee-hairline-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../font/bungee-hairline-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../font/bungee-hairline-regular.woff') format('woff'), /* Modern Browsers */
+       url('../font/bungee-hairline-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../font/bungee-hairline-regular.svg#BungeeHairline') format('svg'); /* Legacy iOS */
+}	
+	
+@font-face {
+  font-family: 'Bungee';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../font/bungee-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../font/bungee-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../font/bungee-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../font/bungee-regular.woff') format('woff'), /* Modern Browsers */
+       url('../font/bungee-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../font/bungee-regular.svg#BungeeHairline') format('svg'); /* Legacy iOS */
+}
+	
+
+
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
