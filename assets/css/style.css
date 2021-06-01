@@ -450,9 +450,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .intro-info .btn-get-started, #hero .intro-info .btn-services {
-  font-family: "Montserrat", sans-serif;
+  font-family: "'Bungee Hairline";
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 1px;
   display: inline-block;
@@ -697,7 +697,7 @@ section {
 
 #why-us .counters span {
   font-family: "Bungee";
-  font-weight: bold;
+  font-weight: 400;
   font-size: 48px;
   display: block;
   color: #1bb1dc;
@@ -738,7 +738,7 @@ section {
 }
 
 #call-to-action .cta-btn {
-  font-family: "Bungee";
+  font-family: "'Bungee Hairline";
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 1px;
